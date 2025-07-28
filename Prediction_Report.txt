@@ -1,0 +1,37 @@
+---- Gold Price Prediction Report ----
+Generated on: 2025-07-17 08:23:15
+Training size: 3870 data points
+Testing size: 968 data points
+
+--- Evaluation Metrics ---
+Mean Absolute Error (MAE): 82.13
+Mean Squared Error (MSE): 10698.60
+Root Mean Squared Error (RMSE): 103.43
+Mean Absolute Percentage Error (MAPE): 3.84%
+Accuracy: 96.16%
+
+--- Future 15-day Forecast ---
+            Predicted Price
+2025-01-01      2407.003884
+2025-01-02      2395.907598
+2025-01-03      2387.041202
+2025-01-04      2379.332126
+2025-01-05      2373.537204
+2025-01-06      2369.437157
+2025-01-07      2366.461432
+2025-01-08      2364.492986
+2025-01-09      2363.067876
+2025-01-10      2362.669505
+2025-01-11      2362.420329
+2025-01-12      2362.231509
+2025-01-13      2362.801496
+2025-01-14      2362.956614
+2025-01-15      2363.572996
+
+--- Historical Data Visualizations ---
+• Yearly trend graphs are saved for each individual year showing daily movements.
+• A combined summary of average monthly prices per year is plotted.
+• Daily trends across all years are visualized for average price changes per day of the month.
+• Year-over-year percentage change in average price is shown as a bar chart.
+
+These plots offer insights into seasonal trends, annual volatility, and long-term gold price evolution.
